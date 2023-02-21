@@ -1,12 +1,12 @@
 Simple MTA Fetch DATA
 
-> Este sistema faz uma requisição de dados na API da Fun Translations, é uma API que traduz um texto para uma outra linguagem.
+> Este sistema faz uma requisição de dados na API da Kanye Rest, é uma API que gera frases do Kanye Rest.
 
 
 Task List:
-1. Cria uma função onde o usuário usa um comando para traduzir um texto para uma outra linguagem;
+1. Cria uma função onde o usuário usa um comando para exibir a frase;
 2. Uma tela no lado client para listar esses textos;
-3. O úsuario pode alterar as linguagens.
+3. As Frases serão aleatórias.
 
 
 
